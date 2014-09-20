@@ -30,9 +30,7 @@ Quiz App
 
 
 <icon src="_assets/img/phone_iphone5.png" gap:platform="android" gap:qualifier="ldpi" />
-<icon src="_assets/img/phone_galaxy3.png" gap:platform="android" gap:qualifier="mdpi" />
-<icon src="_assets/img/phone_lumia920.png" gap:platform="android" gap:qualifier="hdpi" />
-<icon src="_assets/img/phone_onex.png" gap:platform="android" gap:qualifier="xhdpi" />
+
 <!--content src="index.html" /-->
 <access origin="*" />
 </widget>
