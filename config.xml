@@ -26,10 +26,7 @@ Quiz App
 <preference name="android-installLocation" value="auto" />
 <preference name="show-splash-screen-spinner" value="true" />
 <preference name="android-windowSoftInputMode" value="stateHidden|adjustResize" />
-<gap:splash src="_assets/img/phone_iphone5.png" gap:platform="android" gap:density="ldpi" />
 
-
-<icon src="_assets/img/phone_iphone5.png" gap:platform="android" gap:qualifier="ldpi" />
 
 <!--content src="index.html" /-->
 <access origin="*" />
