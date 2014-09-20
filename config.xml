@@ -24,8 +24,13 @@ Quiz App
 <preference name="disable-cursor" value="false" />
 <preference name="android-minSdkVersion" value="7" />
 <preference name="android-installLocation" value="auto" />
-<preference name="show-splash-screen-spinner" value="false" />
+<preference name="show-splash-screen-spinner" value="true" />
 <preference name="android-windowSoftInputMode" value="stateHidden|adjustResize" />
+
+<icon src="_assets/img/phone_iphone5.png" gap:platform="android" gap:qualifier="ldpi" />
+<icon src="_assets/img/phone_galaxy3.png" gap:platform="android" gap:qualifier="mdpi" />
+<icon src="_assets/img/phone_lumia920.png" gap:platform="android" gap:qualifier="hdpi" />
+<icon src="_assets/img/phone_onex.png" gap:platform="android" gap:qualifier="xhdpi" />
 <!--content src="index.html" /-->
 <access origin="*" />
 </widget>
